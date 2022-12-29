@@ -1,5 +1,5 @@
-#ifndef STEIN_HPP_INCLUDED
-#define STEIN_HPP_INCLUDED
+#ifndef PIECE_HPP_INCLUDED
+#define PIECE_HPP_INCLUDED
 #include<iostream>
 
 class Stein {

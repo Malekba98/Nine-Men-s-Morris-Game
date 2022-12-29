@@ -1,7 +1,7 @@
-#ifndef SPIELBRETT_HPP_INCLUDED
-#define SPIELBRETT_HPP_INCLUDED
+#ifndef BOARD_HPP_INCLUDED
+#define BOARD_HPP_INCLUDED
 #include<array>
-#include "stein.hpp"
+#include "piece.hpp"
 
 class SpielBrett
 {

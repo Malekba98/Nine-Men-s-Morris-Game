@@ -1,4 +1,4 @@
-#include "stein.hpp"
+#include "piece.hpp"
 #include<iostream>
 
 Stein::Stein ()

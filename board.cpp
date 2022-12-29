@@ -1,5 +1,5 @@
 #include <iostream>
-#include "spielbrett.hpp"
+#include "board.hpp"
 
 
 
