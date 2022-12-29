@@ -1,1 +1,1 @@
-# Nine-Men-s-Morris-Game-in-C-
+# Nine Men's Morris Game in C++
