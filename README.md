@@ -5,7 +5,7 @@ The implementation has a simple command line graphical interface.
 ## Launching the game
 In order to launch the game run the main.cpp file in an appropriate C++ IDE.
 
-## How to play the game
+## Instructions
 ### Choosing which player starts
 Choose 'W' if white player starts or 'B' if black player starts.
 ### Placing a piece
