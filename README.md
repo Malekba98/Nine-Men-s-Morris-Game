@@ -4,3 +4,8 @@ The implementation has a simple command line graphical interface.
 
 ## Launching the game
 In order to launch the game run the main.cpp file in an appropriate C++ IDE.
+
+## How to play the game
+The Board initially contains 24 places where a player can place their pieces.
+### Placing a piece
+When asked to place a piece on the board, please choose a number between 0 and 23.
