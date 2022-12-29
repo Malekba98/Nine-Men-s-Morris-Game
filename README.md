@@ -7,7 +7,7 @@ In order to launch the game run the main.cpp file in an appropriate C++ IDE.
 
 ## How to play the game
 The Board initially contains 24 places where a player can place their pieces.
-![Board](./docs_readme/Field_pic.jpg)
+![Board](./readme_docs/Field_pic.jpg)
 ### Choosing which player starts
 Choose 'W' if white player starts or 'B' if black player starts.
 ### Placing a piece
